@@ -1,0 +1,587 @@
+sending !
+Unexpected Command Value
+
+sending "
+Unexpected Command Value
+
+sending #
+Unexpected Command Value
+
+sending $
+Unexpected Command Value
+
+sending %
+Unexpected Command Value
+
+sending &
+Unexpected Command Value
+
+sending '
+Unexpected Command Value
+
+sending (
+Unexpected Command Value
+
+sending )
+Unexpected Command Value
+
+sending *
+Unexpected Command Value
+
+sending +
+Unexpected Command Value
+
+sending ,
+Unexpected Command Value
+
+sending -
+Unexpected Command Value
+
+sending .
+Unexpected Command Value
+
+sending /
+Unexpected Command Value
+
+sending 0
+Unexpected Command Value
+
+sending 1
+Unexpected Command Value
+
+sending 2
+Unexpected Command Value
+
+sending 3
+Unexpected Command Value
+
+sending 4
+Unexpected Command Value
+
+sending 5
+Unexpected Command Value
+
+sending 6
+Unexpected Command Value
+
+sending 7
+Unexpected Command Value
+
+sending 8
+Unexpected Command Value
+
+sending 9
+Unexpected Command Value
+
+sending :
+Unexpected Command Value
+
+sending ;
+Unexpected Command Value
+
+sending <
+Unexpected Command Value
+
+sending =
+Unexpected Command Value
+
+sending >
+Unexpected Command Value
+
+sending ?
+Unexpected Command Value
+
+sending @
+Unexpected Command Value
+
+sending A
+Unexpected Command Value
+
+sending B
+Unexpected Command Value
+
+sending C
+Unexpected Command Value
+
+sending D
+Unexpected Command Value
+
+sending E
+Unexpected Command Value
+
+sending F
+Unexpected Command Value
+
+sending G
+Unexpected Command Value
+
+sending H
+Unexpected Command Value
+
+sending I
+Unexpected Command Value
+
+sending J
+Unexpected Command Value
+
+sending K
+Unexpected Command Value
+
+sending L
+Unexpected Command Value
+
+sending M
+Unexpected Command Value
+
+sending N
+Unexpected Command Value
+
+sending O
+Unexpected Command Value
+
+sending P
+Unexpected Command Value
+
+sending Q
+Unexpected Command Value
+
+sending R
+Unexpected Command Value
+Error wrong password enter again
+ICS Super Controller v1.3
+Please Supply initialisation command. Commands are limited to size(4)
+
+sending S
+Unexpected Command Value
+
+sending T
+Unexpected Command Value
+
+sending U
+Unexpected Command Value
+
+sending V
+Processing 1: 
+Found result appending V
+Processing 1: 
+sending V!
+Unexpected Command Value
+
+sending V"
+Unexpected Command Value
+
+sending V#
+Unexpected Command Value
+
+sending V$
+Unexpected Command Value
+
+sending V%
+Unexpected Command Value
+
+sending V&
+Unexpected Command Value
+
+sending V'
+Unexpected Command Value
+
+sending V(
+Unexpected Command Value
+
+sending V)
+Unexpected Command Value
+
+sending V*
+Unexpected Command Value
+
+sending V+
+Unexpected Command Value
+
+sending V,
+Unexpected Command Value
+
+sending V-
+Unexpected Command Value
+
+sending V.
+Unexpected Command Value
+
+sending V/
+Unexpected Command Value
+
+sending V0
+Unexpected Command Value
+
+sending V1
+Unexpected Command Value
+
+sending V2
+Unexpected Command Value
+
+sending V3
+Unexpected Command Value
+
+sending V4
+Unexpected Command Value
+
+sending V5
+Unexpected Command Value
+
+sending V6
+Unexpected Command Value
+
+sending V7
+Unexpected Command Value
+
+sending V8
+Unexpected Command Value
+
+sending V9
+Unexpected Command Value
+
+sending V:
+Unexpected Command Value
+
+sending V;
+Unexpected Command Value
+
+sending V<
+Unexpected Command Value
+
+sending V=
+Unexpected Command Value
+
+sending V>
+Unexpected Command Value
+
+sending V?
+Unexpected Command Value
+
+sending V@
+Unexpected Command Value
+
+sending VA
+Unexpected Command Value
+
+sending VB
+Unexpected Command Value
+
+sending VC
+Unexpected Command Value
+
+sending VD
+Unexpected Command Value
+
+sending VE
+Unexpected Command Value
+
+sending VF
+Unexpected Command Value
+
+sending VG
+Unexpected Command Value
+
+sending VH
+Unexpected Command Value
+
+sending VI
+Processing 1: Processing 2: 
+Found result appending I
+Processing 1: Processing 2: 
+sending VI!
+Unexpected Command Value
+
+sending VI"
+Unexpected Command Value
+
+sending VI#
+Unexpected Command Value
+
+sending VI$
+Unexpected Command Value
+
+sending VI%
+Unexpected Command Value
+
+sending VI&
+Unexpected Command Value
+
+sending VI'
+Unexpected Command Value
+
+sending VI(
+Unexpected Command Value
+
+sending VI)
+Unexpected Command Value
+
+sending VI*
+Unexpected Command Value
+
+sending VI+
+Unexpected Command Value
+
+sending VI,
+Unexpected Command Value
+
+sending VI-
+Unexpected Command Value
+
+sending VI.
+Unexpected Command Value
+
+sending VI/
+Unexpected Command Value
+
+sending VI0
+Unexpected Command Value
+
+sending VI1
+Unexpected Command Value
+
+sending VI2
+Unexpected Command Value
+
+sending VI3
+Unexpected Command Value
+
+sending VI4
+Unexpected Command Value
+
+sending VI5
+Unexpected Command Value
+
+sending VI6
+Unexpected Command Value
+
+sending VI7
+Unexpected Command Value
+
+sending VI8
+Unexpected Command Value
+
+sending VI9
+Unexpected Command Value
+
+sending VI:
+Unexpected Command Value
+
+sending VI;
+Unexpected Command Value
+
+sending VI<
+Unexpected Command Value
+
+sending VI=
+Unexpected Command Value
+
+sending VI>
+Unexpected Command Value
+
+sending VI?
+Unexpected Command Value
+
+sending VI@
+Unexpected Command Value
+
+sending VIA
+Unexpected Command Value
+
+sending VIB
+Unexpected Command Value
+
+sending VIC
+Unexpected Command Value
+
+sending VID
+Unexpected Command Value
+
+sending VIE
+Unexpected Command Value
+
+sending VIF
+Unexpected Command Value
+
+sending VIG
+Unexpected Command Value
+
+sending VIH
+Unexpected Command Value
+
+sending VII
+Unexpected Command Value
+
+sending VIJ
+Unexpected Command Value
+
+sending VIK
+Unexpected Command Value
+
+sending VIL
+Unexpected Command Value
+
+sending VIM
+Unexpected Command Value
+
+sending VIN
+Processing 1: Processing 2: Processing 3: 
+Found result appending N
+Processing 1: Processing 2: Processing 3: 
+sending VIN!
+Unexpected Command Value
+
+sending VIN"
+Unexpected Command Value
+
+sending VIN#
+Unexpected Command Value
+
+sending VIN$
+Unexpected Command Value
+
+sending VIN%
+Unexpected Command Value
+
+sending VIN&
+Unexpected Command Value
+
+sending VIN'
+Unexpected Command Value
+
+sending VIN(
+Unexpected Command Value
+
+sending VIN)
+Unexpected Command Value
+
+sending VIN*
+Unexpected Command Value
+
+sending VIN+
+Unexpected Command Value
+
+sending VIN,
+Unexpected Command Value
+
+sending VIN-
+Unexpected Command Value
+
+sending VIN.
+Unexpected Command Value
+
+sending VIN/
+Unexpected Command Value
+
+sending VIN0
+Unexpected Command Value
+
+sending VIN1
+Unexpected Command Value
+
+sending VIN2
+Unexpected Command Value
+
+sending VIN3
+Unexpected Command Value
+
+sending VIN4
+Unexpected Command Value
+
+sending VIN5
+Unexpected Command Value
+
+sending VIN6
+Unexpected Command Value
+
+sending VIN7
+Unexpected Command Value
+
+sending VIN8
+Unexpected Command Value
+
+sending VIN9
+Unexpected Command Value
+
+sending VIN:
+Unexpected Command Value
+
+sending VIN;
+Unexpected Command Value
+
+sending VIN<
+Unexpected Command Value
+
+sending VIN=
+Unexpected Command Value
+
+sending VIN>
+Unexpected Command Value
+
+sending VIN?
+Unexpected Command Value
+
+sending VIN@
+Unexpected Command Value
+
+sending VINA
+Unexpected Command Value
+
+sending VINB
+Unexpected Command Value
+
+sending VINC
+Unexpected Command Value
+
+sending VIND
+Unexpected Command Value
+
+sending VINE
+Unexpected Command Value
+
+sending VINF
+Unexpected Command Value
+
+sending VING
+Unexpected Command Value
+
+sending VINH
+Unexpected Command Value
+
+sending VINI
+Unexpected Command Value
+
+sending VINJ
+Unexpected Command Value
+
+sending VINK
+Unexpected Command Value
+
+sending VINL
+Unexpected Command Value
+
+sending VINM
+Unexpected Command Value
+
+sending VINN
+Unexpected Command Value
+
+sending VINO
+Unexpected Command Value
+
+sending VINP
+Unexpected Command Value
+
+sending VINQ
+Unexpected Command Value
+
+sending VINR
+Unexpected Command Value
+
+sending VINS
+Unexpected Command Value
+
+sending VINT
+Processing 1: Processing 2: Processing 3: Processing 4: 
+Found result appending T
+Processing 1: Processing 2: Processing 3: Processing 4: 
+The Password is: ['V', 'I', 'N', 'T']
