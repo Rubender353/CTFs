@@ -1,5 +1,7 @@
 # SANS Cyber FastTrack Sprint 2021 Writeups
 
+Zip files attached are the CTF files. I didn't solve all the challenges, and a few of the zip files attached are the ones I didn't solve like CM one which was a cryptography one. Feel free to download these and practice on your own time.
+
 # Binaries Challenges
 
 ## BE01
